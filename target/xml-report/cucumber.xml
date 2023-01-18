@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="44.355">
+    <testcase classname="US1013 Kullanici Web tablosunda istedigi degerin varligini test eder" name="TC18 Kullanici tablodan deger test edebilmeli" time="43.682">
+        <failure message="" type="java.lang.AssertionError">
+            <![CDATA[Given kullanici "guru99Url" anasayfaya gider................................passed
+And guru99 cookies kabul eder...............................................passed
+Then Company listesini consola yazdirir.....................................passed
+And "NCC" in listede oldugunu test eder.....................................failed
+
+StackTrace:
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepdefinitions.Guru99Stepdefinitions.in_listede_oldugunu_test_eder(Guru99Stepdefinitions.java:34)
+	at ✽."NCC" in listede oldugunu test eder(file:///C:/Users/User/IdeaProjects/com.team105Cucumber/src/test/resources/features/US1013_guru99.feature:8)
+]]>
+        </failure>
+    </testcase>
+</testsuite>
