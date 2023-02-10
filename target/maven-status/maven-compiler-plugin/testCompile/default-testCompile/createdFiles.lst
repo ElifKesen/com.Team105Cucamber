@@ -1,11 +1,17 @@
 pages\QualitydemyPage.class
+stepdefinitions\AutomationExerciseStepdefinitions.class
+stepdefinitions\Guru99Stepdefinitions.class
+utilities\ReusableMethods$1.class
 stepdefinitions\AmazonStepDefinitions.class
 stepdefinitions\WebUniversityStepdefinitions.class
 pages\EditorPage.class
+pages\AutomationExercisePage.class
 stepdefinitions\QualitydemyStepdefinitions.class
 pages\HerokuappPage.class
+utilities\ReusableMethods.class
 pages\AmazonPage.class
 stepdefinitions\Hooks.class
+utilities\ReusableMethods$2.class
 runners\Runner.class
 stepdefinitions\HerokuappStepdefinitions.class
 utilities\Driver.class
@@ -13,4 +19,5 @@ stepdefinitions\EditorStepdefinitions.class
 runners\ParalelRunner1.class
 runners\ParalelRunner2.class
 pages\WebUniversityPage.class
+pages\Guru99Page.class
 utilities\ConfigReader.class

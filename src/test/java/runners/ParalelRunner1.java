@@ -17,6 +17,7 @@ import org.junit.runner.RunWith;
 
 )
 public class ParalelRunner1 {
+
     /*
     Cucamberda Runner classi bos bir classtir
     Runner classini diger classkardan farkli kilan ve
